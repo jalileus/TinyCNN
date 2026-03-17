@@ -1,0 +1,3 @@
+stm32_weights/
+tinycnn_face_final.pth
+tinycnn_face_best.pth
