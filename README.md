@@ -124,11 +124,11 @@ If you use this in your research, please cite:
 
 ```
 @misc{TinyCNN2026,
-  author = {Your Name},
+  author = {Alhajali Jalal},
   title = {TinyCNN Training for Embedded Face Detection},
   year = {2026},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/TinyCNN}
+  url = {https://github.com/jalileus/TinyCNN}
 }
 ```
 
