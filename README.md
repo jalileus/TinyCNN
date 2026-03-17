@@ -124,11 +124,11 @@ If you use this in your research, please cite:
 
 ```
 @misc{TinyCNN2026,
-  author = {Your Name},
+  author = {Alhajali Jalal},
   title = {TinyCNN Training for Embedded Face Detection},
   year = {2026},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/TinyCNN}
+  url = {https://github.com/jalileus/TinyCNN}
 }
 ```
 
@@ -143,7 +143,7 @@ If you use this in your research, please cite:
 
 For questions or collaborations:
 
-- Name: Alhazhali.zh@phystech.edu
+- Email: Alhazhali.zh@phystech.edu
 - GitHub: [@jalileus](https://github.com/jalileus)
 - Repository: [https://github.com/jalileus/TinyCNN](https://github.com/jalileus/TinyCNN)
 
