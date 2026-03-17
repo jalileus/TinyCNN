@@ -143,7 +143,7 @@ If you use this in your research, please cite:
 
 For questions or collaborations:
 
-- Name: Alhazhali.zh@phystech.edu
+- Email: Alhazhali.zh@phystech.edu
 - GitHub: [@jalileus](https://github.com/jalileus)
 - Repository: [https://github.com/jalileus/TinyCNN](https://github.com/jalileus/TinyCNN)
 
