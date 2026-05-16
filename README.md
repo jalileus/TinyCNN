@@ -149,6 +149,7 @@ For questions or collaborations:
 
 ## Citations
 If you use this project, please cite the underlying dataset:
+
 LFW:
 > G.~B. Huang, M.~Ramesh, T.~Berg, and E.~Learned-Miller, ``Labeled Faces in the Wild: A Database for Studying Face Recognition in Unconstrained Environments,'' University of Massachusetts, Amherst, Tech. Rep. 07-49, 2007.
 
