@@ -147,4 +147,11 @@ For questions or collaborations:
 - GitHub: [@jalileus](https://github.com/jalileus)
 - Repository: [https://github.com/jalileus/TinyCNN](https://github.com/jalileus/TinyCNN)
 
+## Citations
+If you use this project, please cite the underlying dataset:
+LFW:
+> G.~B. Huang, M.~Ramesh, T.~Berg, and E.~Learned-Miller, ``Labeled Faces in the Wild: A Database for Studying Face Recognition in Unconstrained Environments,'' University of Massachusetts, Amherst, Tech. Rep. 07-49, 2007.
+
+PASS:
+> Y.~M. Asano, C.~Rupprecht, A.~Zisserman, and A.~Vedaldi, ``PASS: An ImageNet replacement for self-supervised pretraining without humans,'' in \textit{Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track}, 2021.
 ---
